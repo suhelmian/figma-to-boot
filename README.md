@@ -1,2 +1,2 @@
 # figma-to-boot
-suhel
+suhel-https://suhelmian.github.io/figma-to-boot/
